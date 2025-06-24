@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # My Website Title 
 
 My first website using Markdown and GitHub Pages.
